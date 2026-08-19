@@ -1,0 +1,8 @@
+node_modules/
+dist/
+qa/
+.DS_Store
+public/screenshots-new/body.png
+public/screenshots-new/day-details.png
+public/screenshots-new/report.png
+public/screenshots-new/workouts.png
